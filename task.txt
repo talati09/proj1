@@ -1,0 +1,17 @@
+//krna kya hai
+
+REST api
+
+GET/users-- html doc
+
+GET/api/users- list all users as json
+GET/users/1- get the unsers with id 1
+GET/users/2-get the users with id 2
+
+
+POST/users - create new users
+PATCH/users/id-edit the users with id
+
+DELETE/users/id->delete the user with id "id"
+
+-------we want data first---hard code krte hai
